@@ -1,0 +1,3 @@
+instance_activate_object(obj_controlsButton)
+instance_activate_object(obj_exitButton)
+instance_activate_object(obj_playButton)

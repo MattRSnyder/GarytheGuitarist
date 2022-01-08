@@ -1,0 +1,6 @@
+draw_set_font(f_main)
+draw_set_valign(fa_left)
+draw_set_halign(fa_left)
+draw_set_alpha(.7)
+draw_text(75,537,"Score: " + string(score))
+draw_set_alpha(1)

@@ -1,0 +1,1 @@
+image_angle += global.foodSpeed*1.5
