@@ -50,7 +50,7 @@ if (keyboard_check_pressed(ord("W"))) && not place_free(x,y+1)
 	audio_play_sound(jump,1,0)
 	sprite_index = spr_GaryJump
 	instance_create_depth(x+32,y+200,-1,obj_jumpParticles)
-	alarm[0] = 15
+	alarm[0] = 10
 }
 
 //Gravity

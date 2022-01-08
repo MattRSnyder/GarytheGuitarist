@@ -34,7 +34,6 @@
     {"id":{"name":"obj_noteDestroyer","path":"objects/obj_noteDestroyer/obj_noteDestroyer.yy",},"order":4,},
     {"id":{"name":"obj_pausedHUD","path":"objects/obj_pausedHUD/obj_pausedHUD.yy",},"order":4,},
     {"id":{"name":"spr_beer","path":"sprites/spr_beer/spr_beer.yy",},"order":1,},
-    {"id":{"name":"r_roadMap","path":"rooms/r_roadMap/r_roadMap.yy",},"order":5,},
     {"id":{"name":"spr_noteDestroyer","path":"sprites/spr_noteDestroyer/spr_noteDestroyer.yy",},"order":2,},
     {"id":{"name":"spr_lightRightPink","path":"sprites/spr_lightRightPink/spr_lightRightPink.yy",},"order":5,},
     {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},"order":0,},
@@ -94,7 +93,6 @@
     {"id":{"name":"spr_menuButtonHover","path":"sprites/spr_menuButtonHover/spr_menuButtonHover.yy",},"order":17,},
     {"id":{"name":"spr_menuBG","path":"sprites/spr_menuBG/spr_menuBG.yy",},"order":21,},
     {"id":{"name":"obj_playButton","path":"objects/obj_playButton/obj_playButton.yy",},"order":13,},
-    {"id":{"name":"obj_roadMapButton","path":"objects/obj_roadMapButton/obj_roadMapButton.yy",},"order":14,},
     {"id":{"name":"obj_controlsButton","path":"objects/obj_controlsButton/obj_controlsButton.yy",},"order":9,},
     {"id":{"name":"obj_controls","path":"objects/obj_controls/obj_controls.yy",},"order":11,},
     {"id":{"name":"spr_retryButton","path":"sprites/spr_retryButton/spr_retryButton.yy",},"order":0,},
@@ -130,7 +128,6 @@
     {"roomId":{"name":"r_menu","path":"rooms/r_menu/r_menu.yy",},},
     {"roomId":{"name":"r_mainGame","path":"rooms/r_mainGame/r_mainGame.yy",},},
     {"roomId":{"name":"r_gameOver","path":"rooms/r_gameOver/r_gameOver.yy",},},
-    {"roomId":{"name":"r_roadMap","path":"rooms/r_roadMap/r_roadMap.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
