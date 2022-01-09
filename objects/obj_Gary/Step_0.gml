@@ -1,15 +1,21 @@
 //Movement
 
-if (keyboard_check_pressed(ord("A")))
+if (keyboard_check(ord("A")))
 {
 	hspeed = -12
 }
 
-if (keyboard_check_pressed(ord("D")))
+if (keyboard_check(ord("D")))
 {
 	hspeed = 12
 }
-if (keyboard_check_released(ord("D"))) or (keyboard_check_released(ord("A")))
+
+if (keyboard_check_released(ord("D")))
+{
+	hspeed = 0
+}
+
+if (keyboard_check_released(ord("A")))
 {
 	hspeed = 0
 }
